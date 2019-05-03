@@ -40,7 +40,7 @@ def add_supply_to_memorial_day(holiday_hash, supply)
 end
 
 def add_new_holiday_with_supplies(holiday_hash, season, holiday_name, supply_array)
-  holiday_hash[:fall] << thanksgiving_eve
+  holiday_hash[:fall] << 
   # code here
   # remember to return the updated hash
 
